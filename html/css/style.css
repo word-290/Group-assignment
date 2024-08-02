@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    margin: 1.25 rem;
+    padding: 0;
+}
+header, footer {
+    background-color: #0000fff;
+     padding: 0.625rem;
+    text-align: center;
+}
+nav ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+nav ul li {
+    display: inline;
+    margin: 0.1em;
+}
+nav ul li a {
+    color: #12af1f;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+<
